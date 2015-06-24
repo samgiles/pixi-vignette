@@ -16,8 +16,6 @@ var vignetteFilter = new VignetteFilter({
 container.filters.push(vignetteFilter);
 ```
 
-## Configuration Options
+# License
 
-### `blur`
-
-The amount
+MIT
