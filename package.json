@@ -1,1 +1,6 @@
-{ "name": "pixi-vignette" }
+{
+  "name": "pixi-vignette",
+  "dependencies": {
+    "pixi.js": "^3.0.6"
+  }
+}
