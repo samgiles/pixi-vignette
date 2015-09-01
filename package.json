@@ -1,5 +1,10 @@
 {
   "name": "pixi-vignette",
+  "version": "0.0.1",
+  "description": "Vignette Filter for Pixi.js",
+  "author": "Samuel Giles",
+  "license": "MIT",
+  "repository": "samgiles/pixi-vignette",
   "dependencies": {
     "pixi.js": "^3.0.6"
   }
